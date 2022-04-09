@@ -8,7 +8,7 @@ São apresentados 5 exercícios de diferentes operações matemáticas a serem e
 
 
 ```
-console.log ("Vamos reagir e colocar um" + (cropped) + "para as próximas aulas!")
+console.log ("Vamos reagir e colocar um " + (cropped) + " para as próximas aulas!")
 
 ```
 
